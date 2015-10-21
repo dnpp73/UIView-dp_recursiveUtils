@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                  = "UIView+dp_recursiveUtils"
-  s.version               = "0.0.1"
-  s.summary               = "User Interfaces for UIKit"
+  s.version               = "1.0.0"
+  s.summary               = "Recursive utility functions for UIView"
   s.author                = { "Yusuke SUGAMIYA" => "yusuke.dnpp@gmail.com" }
   s.homepage              = "https://github.com/dnpp73/UIView-dp_recursiveUtils"
   s.source                = { :git => "https://github.com/dnpp73/UIView-dp_recursiveUtils.git", :tag => "#{s.version}" }
