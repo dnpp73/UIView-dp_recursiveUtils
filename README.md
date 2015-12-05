@@ -5,6 +5,7 @@ UIView+dp_recursiveUtils
 [![Pod Version](http://img.shields.io/cocoapods/v/UIView+dp_recursiveUtils.svg?style=flat-square)](http://cocoadocs.org/docsets/UIView+dp_recursiveUtils/)
 [![Pod Platform](http://img.shields.io/cocoapods/p/UIView+dp_recursiveUtils.svg?style=flat-square)](http://cocoadocs.org/docsets/UIView+dp_recursiveUtils/)
 [![Pod License](http://img.shields.io/cocoapods/l/UIView+dp_recursiveUtils.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square)](https://github.com/Carthage/Carthage)
 
 ### Dependency
 * None
