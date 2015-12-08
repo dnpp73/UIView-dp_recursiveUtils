@@ -144,6 +144,7 @@
 		190500061C129E7C00A8B8ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BITCODE_GENERATION_MODE = bitcode;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(PROJECT_NAME:c99extidentifier)";
 			};
@@ -152,6 +153,7 @@
 		190500071C129E7C00A8B8ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BITCODE_GENERATION_MODE = bitcode;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(PROJECT_NAME:c99extidentifier)";
 			};
